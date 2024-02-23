@@ -32,4 +32,8 @@ def c(text):
 
 
 if __name__ == "__main__":
+<<<<<<< HEAD
     app.run(host="0.0.0.0")
+=======
+    app.run(host="0.0.0.0")
+>>>>>>> 85dee00344220e276f6e3c43cb189e70bcd971a6
